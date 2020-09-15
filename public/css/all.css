@@ -1,0 +1,51 @@
+nav{
+	margin-bottom: 3rem;
+	background-color: #006a71;
+}
+nav a{
+	color: #fff!important;
+}
+label{
+	color: #006a71;
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+h2{
+  color: #006a71;
+  font-weight: bold;
+}
+.btn{
+	background-color: #006a71;
+	border-radius: 20px;
+	border:none;
+}
+.btn:hover{
+	background-color: #006a71;
+	border-radius: 20px;
+	border:none;
+}
+.btn:focus{
+	background-color: #006a71;
+	border-radius: 20px;
+	border:none;
+	outline: none;
+}
+.dropdown-menu a{
+	color: #fff;
+}
+.dropdown-menu a:hover{
+	color: #fff;
+}
+strong{
+	color: #006a71 !important;
+}
+.dropdown-menu{
+	background-color: #006171 !important;
+}
+.dropdown-menu a:hover{
+	background-color: #006171 !important;
+}
+h5{
+	color:#006171;
+	font-weight: bold;
+}
